@@ -1,0 +1,17 @@
+{
+  "name": "next.js",
+  "version": "1.0.0",
+  "description": "react app with next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Arthur Poliakov",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "next": "^1.2.3"
+  }
+}
